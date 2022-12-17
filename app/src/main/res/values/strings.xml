@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Portfolio App</string>
+    <string name="position">Engineering Sophomore</string>
+    <string name="about">Hi, myself Tanvi Verma, a student of B.Tech Engineering at Indira Gandhi Delhi Technical University for Women, Delhi. I am a second year student in Computer Science and Engineering. Zealous about programming and learning I joined in here and wish to sail through it far  and wide.</string>
+    <string name="extra">Apart from the curriculum I am interested in music and dance as well. Let me tell you something. I am a Kpop fan as well and interested in basketball. Reading, trekking and act play are some of my hobbies.</string>
+    <string name="name">Tanvi\nVerma</string>
+    <string name="know_more">Know More</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tnp">Serving as a TNP Volunteer since January 2022 to present so as to ensure timely and the best possible opportunities to the students.</string>
+    <string name="gdsc">Member of the Google Developer Students Club - IGDTUW, a developer group powered by Google Developers to learn, share, connect and develop skills.</string>
+    <string name="codechef">Member of the CodeChef IGDTUW chapter, an online educational program and competitive programming community of global programmers.</string>
+    <string name="cb">Developer at Celestial Biscuit, IGDTUW.</string>
+    <string name="innerve">Head Coordinator at Innerve, the technical fest of IGDTUW.</string>
+    <string name="taarangana">Head Coordinator at Taarangana, the cultural fest of IGDTUW.</string>
+    <string name="leanin">Mentee at LeanIn, IGDTUW.</string>
+    <string name="headline">Academic Proficiency</string>
+    <string name="proficiency">Technical Advancement</string>
+    <string name="prof_detail">Innovative, task driven individual with learned experience in design and development. Proficient in developing databases, creating user interfaces, writing and testing codes. Able to work well in teams and individually. Aiming to be a full-stack developer.</string>
+</resources>
